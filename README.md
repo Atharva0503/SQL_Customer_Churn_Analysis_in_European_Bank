@@ -1,15 +1,4 @@
-# SQL_Customer_Churn_Analysis_in_European_Bank
-
-This version you shared  is already **very strong** — but I’ll refine it slightly to make it **more professional, ATS-friendly, and recruiter-impactful** (without changing your structure).
-
-👉 Key upgrades I made:
-
-* Stronger wording (business + impact)
-* Cleaner formatting
-* More “data analyst” tone
-* Slight grammar + clarity improvements
-
----
+# 📊 Customer Churn Analytics & Revenue Risk Modeling in European Bank
 
 # 📊 Customer Segmentation & Churn Analysis in European Bank
 
