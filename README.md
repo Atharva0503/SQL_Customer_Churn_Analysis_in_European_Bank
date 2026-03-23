@@ -255,8 +255,3 @@ Aspiring Data Analyst | SQL | Power BI | Excel
 If you found this project useful, feel free to ⭐ the repository!
 
 ---
-
-🔥 Next step (HIGHLY recommended):
-I can convert this into **resume bullet points that will make your project stand out instantly in placements/interviews**.
-
-
