@@ -1,6 +1,4 @@
-# 📊 Customer Churn Analytics & Revenue Risk Modeling in European Bank
-
-# 📊 Customer Segmentation & Churn Analysis in European Bank
+# Customer Churn Analytics & Revenue Risk Modeling in European Bank
 
 ## 📌 Project Overview
 
