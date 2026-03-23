@@ -292,7 +292,8 @@ To provide stakeholders with a **clear, interactive view of customer churn, risk
 
 ## 📸 Dashboard Preview
 
-*(Add your Power BI dashboard screenshot here)*
+<img width="1361" height="747" alt="page_1" src="https://github.com/user-attachments/assets/6c7c4d08-cd55-4fae-9763-a7e3d8031911" />
+
 
 ---
 
@@ -306,13 +307,6 @@ This project demonstrates strong capabilities in:
 * Data Visualization
 
 It highlights how **data-driven insights can help reduce churn and minimize revenue loss** in the banking sector.
-
----
-
-## 👨‍💻 Author
-
-**Atharva**
-Aspiring Data Analyst | SQL | Power BI | Excel
 
 ---
 
