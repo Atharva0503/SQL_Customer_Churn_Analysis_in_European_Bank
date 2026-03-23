@@ -1,4 +1,9 @@
-# Customer Churn Analytics & Revenue Risk Modeling in European Bank
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-DataCleaning-green)
+
+# 🏦 Customer Churn Analytics & Revenue Risk Modeling  
+## European Bank Case Study
 
 ## 📌 Project Overview
 
