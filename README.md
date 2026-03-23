@@ -170,12 +170,6 @@ Built a final **analysis-ready dataset** including:
 
 ---
 
-## Nice — adding your Power BI file makes this **10x more impressive** because now we can describe the dashboard like a real analyst project 🔥
-
-I’ll upgrade **ONLY the Power BI Dashboard section** so it sounds **professional + impactful + interview-ready**.
-
----
-
 ## 📊 Power BI Dashboard (Advanced & Interactive)
 
 Designed a **high-impact, business-focused Power BI dashboard** to transform raw insights into actionable decisions.
