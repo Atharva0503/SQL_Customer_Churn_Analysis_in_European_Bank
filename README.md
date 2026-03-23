@@ -292,8 +292,17 @@ To provide stakeholders with a **clear, interactive view of customer churn, risk
 
 ## 📸 Dashboard Preview
 
+* Page 1
 <img width="1361" height="747" alt="page_1" src="https://github.com/user-attachments/assets/6c7c4d08-cd55-4fae-9763-a7e3d8031911" />
 
+* Page 2
+<img width="1314" height="744" alt="page_2" src="https://github.com/user-attachments/assets/544bae5f-4cf6-4bb4-a4bb-ce4d14da6273" />
+
+* Page 3
+<img width="1308" height="744" alt="page_3" src="https://github.com/user-attachments/assets/95e1489b-ef00-438d-9557-55ae1d2bbb23" />
+
+* Page 4
+<img width="1308" height="741" alt="page_4" src="https://github.com/user-attachments/assets/f0888b34-34c6-4bb3-8a95-665010d5f674" />
 
 ---
 
