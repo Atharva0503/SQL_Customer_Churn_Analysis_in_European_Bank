@@ -11,9 +11,9 @@ This project focuses on analyzing **customer churn in a European bank**, with th
 
 It demonstrates a complete **end-to-end data analytics pipeline**, including:
 
-* Data cleaning using Excel
-* Data analysis using SQL
-* Data visualization using Power BI
+* Data cleaning with Excel  
+* Data analysis with SQL  
+* Data visualization with Power BI  
 
 The analysis goes beyond basic metrics by incorporating **customer segmentation, risk analysis, and revenue impact evaluation**, making it highly relevant for real-world business decision-making.
 
@@ -246,7 +246,7 @@ To provide stakeholders with a **clear, interactive view of customer churn, risk
 * Helps prioritize **high-value customer retention**
 * Identifies **hidden revenue leakage**
 * Supports targeted marketing & engagement strategies
-* Bridges gap between **data analysis and business action**
+* Bridges the gap between **data analysis and business action**
 
 ---
 
@@ -307,7 +307,7 @@ This project demonstrates strong capabilities in:
 * Business Problem Solving
 * Data Visualization
 
-It highlights how **data-driven insights can help reduce churn and minimize revenue loss** in the banking sector.
+👉 This project demonstrates how data-driven decision-making can proactively reduce churn and protect revenue in the banking sector
 
 ---
 
