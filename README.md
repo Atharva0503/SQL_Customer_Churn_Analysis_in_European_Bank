@@ -170,26 +170,55 @@ Built a final **analysis-ready dataset** including:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard (Advanced & Interactive)
 
-Developed an **interactive and business-focused dashboard**:
+Designed a high-impact, business-focused Power BI dashboard to transform raw insights into actionable decisions.
 
-### 🔥 Features:
+🎯 Dashboard Objective
 
-* KPI Cards:
+To provide stakeholders with a clear, interactive view of customer churn, risk segments, and revenue impact, enabling data-driven retention strategies.
 
-  * Total Customers
-  * Churn Rate
-  * Revenue Lost
-  * Average Balance
-
-* Visualizations:
-
-  * Churn by Geography
-  * Segment-wise analysis
-  * Risk segmentation
-  * Customer behavior trends
-
+🔥 Dashboard Features
+🔹 KPI Cards (Top-Level Metrics)
+Total Customers
+Churned Customers
+Churn Rate (%)
+Total Revenue Lost
+Average Customer Balance
+🔹 Core Visuals
+📍 Churn by Geography
+Identifies high-risk regions (Germany as top churn contributor)
+👥 Customer Segmentation Analysis
+Age Group, Credit Score, Tenure, Balance Segments
+⚠️ Risk Segmentation
+Highlights High Balance + Inactive customers as critical risk group
+📦 Product Usage vs Churn
+Shows higher churn for customers with 3–4 products
+🔄 Active vs Inactive Customers
+Clear comparison of churn behavior
+💰 Revenue Loss Analysis
+Visualizes financial impact of churn across segments and regions
+🔹 Advanced Features
+🎛️ Interactive Filters (Slicers)
+Geography
+Gender
+Age Group
+Balance Segment
+Risk Segment
+🔍 Drill-Down Capabilities
+Enables deeper analysis from summary → detailed insights
+🎯 Dynamic Segmentation
+Powered by SQL-based calculated fields
+🚀 Key Dashboard Highlights
+Combines customer behavior + financial impact in one view
+Clearly identifies high-risk and high-value churn segments
+Enables quick, data-driven decision-making
+Designed with a business storytelling approach
+💡 Business Value
+Helps prioritize high-value customer retention
+Identifies hidden revenue leakage
+Supports targeted marketing & engagement strategies
+Bridges gap between data analysis and business action
 ---
 
 ## 📈 Key Insights
