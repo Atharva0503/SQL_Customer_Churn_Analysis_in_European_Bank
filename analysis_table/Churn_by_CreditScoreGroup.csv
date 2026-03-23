@@ -1,0 +1,4 @@
+CreditScoreGroup,customers,churned_customers,churn_rate
+Low,417,113,27.10
+Medium,3967,954,24.05
+High,1999,470,23.51

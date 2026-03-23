@@ -1,0 +1,5 @@
+AgeGroup,customers,churned_customers,churn_rate
+30-45,3967,722,18.20
+"Under 30",998,99,9.92
+46-60,1121,625,55.75
+60+,297,91,30.64

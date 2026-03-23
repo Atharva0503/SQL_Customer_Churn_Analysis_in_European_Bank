@@ -1,0 +1,5 @@
+Product_Category,total_customers,churned_customers,active_customers,churn_rate
+A,4179,1071,3108,25.63
+B,1990,262,1728,13.17
+C,168,158,10,94.05
+D,46,46,0,100.00

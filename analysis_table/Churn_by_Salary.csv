@@ -1,0 +1,4 @@
+SalarySegment,customers,churned_customers,churn_rate
+"High Salary",3229,788,24.40
+"Low Salary",1538,371,24.12
+"Medium Salary",1616,378,23.39

@@ -1,0 +1,4 @@
+TenureSegment,customers,churned_customers,churn_rate,churn_contribution
+"Long-term Customer",1598,401,25.09,26.09
+"New Customer",2285,551,24.11,35.85
+"Mid-term Customer",2500,585,23.40,38.06
