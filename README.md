@@ -158,7 +158,7 @@ Built a final **analysis-ready dataset** including:
 * Revenue loss metric
 * Salary segmentation
 
-👉 Optimized for direct integration into Power BI
+👉 Optimized for direct integration into Power BI.
 
 ---
 
